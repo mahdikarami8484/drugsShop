@@ -1,0 +1,17 @@
+name: drugsShop
+version: 1.0.0
+main: mahdikarami8484\drugsShop\main
+api: [3.0.0, 4.0.0]
+description: drugsShop shop
+author: mahdikarami8484
+
+
+commands:
+    buydrug:
+     description: for buy drugsShop
+     permission: buydrug.command
+
+permissions:
+    buydrug.command:
+      description: Allow using buydrug command
+      default: true
