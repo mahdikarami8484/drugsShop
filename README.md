@@ -13,7 +13,8 @@
 1. go to plugin_data/drugsShop in server folder
 2. open drugs.yml
 3. and add your drug like example
-4. example :``` 
+4. example :
+``` 
 Opium:
   price: 1200
   time: 100
