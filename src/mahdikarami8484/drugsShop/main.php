@@ -1,6 +1,6 @@
 <?php
 
-namespace mahdi;
+namespace mahdikarami8484\drugsShop;
 
 use jojoe77777\FormAPI\SimpleForm;
 use jojoe77777\FormAPI\CustomForm;
